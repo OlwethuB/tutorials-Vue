@@ -5,7 +5,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 1,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://randompicturegenerator.com/img/car-generator/gb59c197fa6bc857bd4427f0d8a949b64711bd7ebe2715dbe5855b6b01c0c0337166333bdade0b5fb668d7a5edc3c37cd_640.png",
             "price": 1000
         },
         {
@@ -13,7 +13,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 2,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://randompicturegenerator.com/img/car-generator/g74a520657acb7a40078320fb19437ad30a1ac140c000aed89839d1ae25563d38f8f4770e0c5916b678b863ce27403144_640.png",
             "price": 1000
         },
         {
@@ -21,15 +21,15 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 3,
-            "image_url": "https://picsum.photos/600?random=1",
-            "price": 1000
+            "image_url": "https://randompicturegenerator.com/img/car-generator/g23fdf7279b219dc0432e07ad28f06635aaff9fb3d471e20d6b936bd5865f88f68a383fd8baac02e9d586a59b5af6c07b_640.jpg",
+            "price":1000
         },
         {
             "title": "Web application",
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 4,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://randompicturegenerator.com/img/car-generator/gb3083ca3738f70532f10fe2b0b454a02e8bf975e9bdf3094163e0ec8fd210b47fda787eb6844712c77535d93e9f0f6e9_640.png",
             "price": 1000
         },
         {
@@ -37,7 +37,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 5,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://randompicturegenerator.com/img/car-generator/g93e2464d449a46aa0c9ec6dc85a9822cdc4a7c2c2728e7c25946856cf5e769641455240403d69de5dd837792c37c9e24_640.jpg",
             "price": 1000
         },
         {
@@ -45,7 +45,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 6,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://randompicturegenerator.com/img/car-generator/g9616fc8cd93b5012465c80487bca207748ff921a9a499a227fd3daf03b47e558b1ed2c44aa0de649f489e73485010229_640.jpg",
             "price": 1000
         },
         {
@@ -53,7 +53,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 7,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://picsum.photos/400?random=1",
             "price": 1000
         },
         {
@@ -61,7 +61,7 @@
             "desc": "JavaScript basics",
             "rating": "5",
             "id": 8,
-            "image_url": "https://picsum.photos/600?random=1",
+            "image_url": "https://picsum.photos/400?random=2",
             "price": 1000
         }
     ]

@@ -2,9 +2,9 @@
     <div class="footer">
         <h6>Footer</h6>
         <p class="footer-text">
-            <routerlink class="menu" to="/"> Home </routerlink>
-            <routerlink class="menu" to="/"> Tutorials </routerlink>
-            <routerlink class="menu" to="/"> About </routerlink>
+            <router-link class="menu" to="/"> Home </router-link>
+            <router-link class="menu" to="/tutorials"> Tutorials </router-link>
+            <router-link class="menu" to="/about"> About </router-link>
         </p>
     </div>
 </template>
@@ -19,17 +19,24 @@ export default{
 <style scoped>
 
 .footer{
-    position: fixed;
+    /* position: fixed;*/
+    left: 0; 
     bottom: 0;
-    left: 0;
-    height: 90px;
+    margin: 0 ;
+    /* height: 70px; */
+    width: 100%;
     background-color:#6495ed ;
 }
+h6{
+    text-align: center;
+    font-size: 20px ;
+}
 
-.footer-text{
+.menu{
     font-size: 25px;
     padding-left: 40px;
-    float: left;
+    /* float: left; */
+    /* padding-bottom: 10px; */
     word-spacing: 20px;
 }
 

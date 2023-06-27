@@ -1,9 +1,9 @@
 <template>
 
     <nav class="topnav">
-        <routerlink class="active" to="/">Home</routerlink>
-        <routerlink to="/"> Tutorials </routerlink>
-        <routerlink to="/"> About </routerlink>
+        <router-link class="active" to="/">Home</router-link>
+        <router-link class="active" to="/tutorials"> Tutorials </router-link>
+        <router-link class="active" to="/about"> About </router-link>
     </nav>
 
 </template>
@@ -22,13 +22,19 @@ export default {
     overflow: hidden;
 }
 
-routerlink{
-    float: left;
-    color: #fff;
+nav{
     text-align: center;
     padding: 14px 16px;
+}
+
+.active{
+    color: #fff;
+    font-size: 25px;
     text-decoration: none;
-    font-size: 20px;
+    padding: 5px;
+}
+.active:hover{
+    color: dodgerblue;
 }
 
 
